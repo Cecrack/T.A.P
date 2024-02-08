@@ -1,0 +1,15 @@
+C:\Users\cecra\source\repos\T.A.P\T.A.P\bin\Debug\T.A.P.exe.config
+C:\Users\cecra\source\repos\T.A.P\T.A.P\bin\Debug\T.A.P.exe
+C:\Users\cecra\source\repos\T.A.P\T.A.P\bin\Debug\T.A.P.pdb
+C:\Users\cecra\source\repos\T.A.P\T.A.P\obj\Debug\T.A.P.csproj.AssemblyReference.cache
+C:\Users\cecra\source\repos\T.A.P\T.A.P\obj\Debug\T.A.P.csproj.SuggestedBindingRedirects.cache
+C:\Users\cecra\source\repos\T.A.P\T.A.P\obj\Debug\T.A.P.Topic.resources
+C:\Users\cecra\source\repos\T.A.P\T.A.P\obj\Debug\T.A.P.Properties.Resources.resources
+C:\Users\cecra\source\repos\T.A.P\T.A.P\obj\Debug\T.A.P.csproj.GenerateResource.cache
+C:\Users\cecra\source\repos\T.A.P\T.A.P\obj\Debug\T.A.P.csproj.CoreCompileInputs.cache
+C:\Users\cecra\source\repos\T.A.P\T.A.P\obj\Debug\T.A.P.exe
+C:\Users\cecra\source\repos\T.A.P\T.A.P\obj\Debug\T.A.P.pdb
+C:\Users\cecra\source\repos\T.A.P\T.A.P\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\cecra\source\repos\T.A.P\T.A.P\obj\Debug\T.A.P.csproj.CopyComplete
+C:\Users\cecra\source\repos\T.A.P\T.A.P\bin\Debug\biblioteca.dll
+C:\Users\cecra\source\repos\T.A.P\T.A.P\bin\Debug\biblioteca.pdb
